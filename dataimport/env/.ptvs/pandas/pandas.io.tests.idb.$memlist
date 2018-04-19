@@ -1,0 +1,16 @@
+test_clipboard
+test_gbq
+test_s3
+test_common
+test_sql
+test_packers
+test_date_converters
+test_stata
+parser
+test_pytables
+test_excel
+generate_legacy_storage_files
+json
+test_pickle
+test_html
+test_ga

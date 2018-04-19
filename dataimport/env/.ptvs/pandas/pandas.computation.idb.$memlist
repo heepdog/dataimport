@@ -1,0 +1,17 @@
+_NUMEXPR_INSTALLED
+expressions
+pytables
+LooseVersion
+align
+scope
+ops
+expr
+common
+__all__
+tests
+engines
+warnings
+api
+ne
+ver
+eval

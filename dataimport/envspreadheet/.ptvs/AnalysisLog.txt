@@ -1,0 +1,1407 @@
+﻿
+2018-04-19T15:58:32: Start analysis
+2018-04-19T15:58:32: [WARNING] Library was set explicitly - skipping path detection
+2018-04-19T15:58:32: IncludeModulesFromModulePath = win32com
+2018-04-19T15:58:32: Deleting 0 files
+2018-04-19T15:58:32: Scraping builtin modules
+2018-04-19T15:58:32: Command: "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2018-04-19T15:58:34: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2018-04-19T15:58:34: Scraped builtin modules
+2018-04-19T15:58:34: astropy.CallDepth = 0
+2018-04-19T15:58:34: matplotlib.CallDepth = 3
+2018-04-19T15:58:34: pandas.CallDepth = 0
+2018-04-19T15:58:34: sympy.CallDepth = 0
+2018-04-19T15:58:34: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib" with 175 files
+2018-04-19T15:58:34: Parsing "abc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\abc.py")
+2018-04-19T15:58:34: Parsing "base64" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\base64.py")
+2018-04-19T15:58:34: Parsing "bisect" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\bisect.py")
+2018-04-19T15:58:34: Parsing "codecs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\codecs.py")
+2018-04-19T15:58:34: Parsing "copy" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\copy.py")
+2018-04-19T15:58:34: Parsing "copyreg" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\copyreg.py")
+2018-04-19T15:58:34: Parsing "fnmatch" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\fnmatch.py")
+2018-04-19T15:58:34: Parsing "functools" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\functools.py")
+2018-04-19T15:58:34: Parsing "genericpath" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\genericpath.py")
+2018-04-19T15:58:34: Parsing "hashlib" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\hashlib.py")
+2018-04-19T15:58:34: Parsing "heapq" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\heapq.py")
+2018-04-19T15:58:34: Parsing "hmac" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\hmac.py")
+2018-04-19T15:58:34: Parsing "imp" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\imp.py")
+2018-04-19T15:58:34: Parsing "io" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\io.py")
+2018-04-19T15:58:34: Parsing "keyword" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\keyword.py")
+2018-04-19T15:58:34: Parsing "linecache" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\linecache.py")
+2018-04-19T15:58:34: Parsing "locale" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\locale.py")
+2018-04-19T15:58:34: Parsing "ntpath" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\ntpath.py")
+2018-04-19T15:58:34: Parsing "operator" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\operator.py")
+2018-04-19T15:58:34: Parsing "os" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\os.py")
+2018-04-19T15:58:34: Parsing "posixpath" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\posixpath.py")
+2018-04-19T15:58:34: Parsing "random" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\random.py")
+2018-04-19T15:58:34: Parsing "re" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\re.py")
+2018-04-19T15:58:34: Parsing "reprlib" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\reprlib.py")
+2018-04-19T15:58:34: Parsing "rlcompleter" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\rlcompleter.py")
+2018-04-19T15:58:34: Parsing "shutil" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\shutil.py")
+2018-04-19T15:58:34: Parsing "site" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site.py")
+2018-04-19T15:58:34: Parsing "sre_compile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\sre_compile.py")
+2018-04-19T15:58:34: Parsing "sre_constants" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\sre_constants.py")
+2018-04-19T15:58:34: Parsing "sre_parse" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\sre_parse.py")
+2018-04-19T15:58:34: Parsing "stat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\stat.py")
+2018-04-19T15:58:34: Parsing "struct" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\struct.py")
+2018-04-19T15:58:34: Parsing "tarfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\tarfile.py")
+2018-04-19T15:58:34: Parsing "tempfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\tempfile.py")
+2018-04-19T15:58:34: Parsing "token" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\token.py")
+2018-04-19T15:58:34: Parsing "tokenize" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\tokenize.py")
+2018-04-19T15:58:34: Parsing "types" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\types.py")
+2018-04-19T15:58:34: Parsing "warnings" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\warnings.py")
+2018-04-19T15:58:34: Parsing "weakref" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\weakref.py")
+2018-04-19T15:58:34: Parsing "_bootlocale" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\_bootlocale.py")
+2018-04-19T15:58:34: Parsing "_collections_abc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\_collections_abc.py")
+2018-04-19T15:58:34: Parsing "_dummy_thread" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\_dummy_thread.py")
+2018-04-19T15:58:34: Parsing "_weakrefset" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\_weakrefset.py")
+2018-04-19T15:58:34: Parsing "__future__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\__future__.py")
+2018-04-19T15:58:34: Parsing "collections.abc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\collections\abc.py")
+2018-04-19T15:58:34: Parsing "collections" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\collections\__init__.py")
+2018-04-19T15:58:34: Parsing "collections.__main__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\collections\__main__.py")
+2018-04-19T15:58:34: Parsing "distutils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\distutils\__init__.py")
+2018-04-19T15:58:34: Parsing "encodings.aliases" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\aliases.py")
+2018-04-19T15:58:34: Parsing "encodings.ascii" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\ascii.py")
+2018-04-19T15:58:34: Parsing "encodings.base64_codec" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\base64_codec.py")
+2018-04-19T15:58:34: Parsing "encodings.big5" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\big5.py")
+2018-04-19T15:58:34: Parsing "encodings.big5hkscs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\big5hkscs.py")
+2018-04-19T15:58:34: Parsing "encodings.bz2_codec" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\bz2_codec.py")
+2018-04-19T15:58:34: Parsing "encodings.charmap" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\charmap.py")
+2018-04-19T15:58:34: Parsing "encodings.cp037" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp037.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1006" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1006.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1026" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1026.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1125" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1125.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1140" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1140.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1250" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1250.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1251" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1251.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1252" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1252.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1253" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1253.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1254" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1254.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1255" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1255.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1256" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1256.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1257" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1257.py")
+2018-04-19T15:58:34: Parsing "encodings.cp1258" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp1258.py")
+2018-04-19T15:58:34: Parsing "encodings.cp273" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp273.py")
+2018-04-19T15:58:34: Parsing "encodings.cp424" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp424.py")
+2018-04-19T15:58:34: Parsing "encodings.cp437" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp437.py")
+2018-04-19T15:58:34: Parsing "encodings.cp500" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp500.py")
+2018-04-19T15:58:34: Parsing "encodings.cp65001" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp65001.py")
+2018-04-19T15:58:34: Parsing "encodings.cp720" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp720.py")
+2018-04-19T15:58:34: Parsing "encodings.cp737" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp737.py")
+2018-04-19T15:58:34: Parsing "encodings.cp775" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp775.py")
+2018-04-19T15:58:34: Parsing "encodings.cp850" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp850.py")
+2018-04-19T15:58:34: Parsing "encodings.cp852" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp852.py")
+2018-04-19T15:58:34: Parsing "encodings.cp855" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp855.py")
+2018-04-19T15:58:34: Parsing "encodings.cp856" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp856.py")
+2018-04-19T15:58:34: Parsing "encodings.cp857" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp857.py")
+2018-04-19T15:58:34: Parsing "encodings.cp858" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp858.py")
+2018-04-19T15:58:34: Parsing "encodings.cp860" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp860.py")
+2018-04-19T15:58:34: Parsing "encodings.cp861" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp861.py")
+2018-04-19T15:58:34: Parsing "encodings.cp862" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp862.py")
+2018-04-19T15:58:34: Parsing "encodings.cp863" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp863.py")
+2018-04-19T15:58:34: Parsing "encodings.cp864" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp864.py")
+2018-04-19T15:58:34: Parsing "encodings.cp865" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp865.py")
+2018-04-19T15:58:34: Parsing "encodings.cp866" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp866.py")
+2018-04-19T15:58:34: Parsing "encodings.cp869" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp869.py")
+2018-04-19T15:58:34: Parsing "encodings.cp874" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp874.py")
+2018-04-19T15:58:34: Parsing "encodings.cp875" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp875.py")
+2018-04-19T15:58:34: Parsing "encodings.cp932" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp932.py")
+2018-04-19T15:58:34: Parsing "encodings.cp949" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp949.py")
+2018-04-19T15:58:34: Parsing "encodings.cp950" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\cp950.py")
+2018-04-19T15:58:34: Parsing "encodings.euc_jisx0213" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\euc_jisx0213.py")
+2018-04-19T15:58:34: Parsing "encodings.euc_jis_2004" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\euc_jis_2004.py")
+2018-04-19T15:58:34: Parsing "encodings.euc_jp" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\euc_jp.py")
+2018-04-19T15:58:34: Parsing "encodings.euc_kr" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\euc_kr.py")
+2018-04-19T15:58:34: Parsing "encodings.gb18030" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\gb18030.py")
+2018-04-19T15:58:34: Parsing "encodings.gb2312" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\gb2312.py")
+2018-04-19T15:58:34: Parsing "encodings.gbk" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\gbk.py")
+2018-04-19T15:58:34: Parsing "encodings.hex_codec" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\hex_codec.py")
+2018-04-19T15:58:34: Parsing "encodings.hp_roman8" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\hp_roman8.py")
+2018-04-19T15:58:34: Parsing "encodings.hz" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\hz.py")
+2018-04-19T15:58:34: Parsing "encodings.idna" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\idna.py")
+2018-04-19T15:58:34: Parsing "encodings.iso2022_jp" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso2022_jp.py")
+2018-04-19T15:58:34: Parsing "encodings.iso2022_jp_1" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso2022_jp_1.py")
+2018-04-19T15:58:34: Parsing "encodings.iso2022_jp_2" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso2022_jp_2.py")
+2018-04-19T15:58:34: Parsing "encodings.iso2022_jp_2004" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso2022_jp_2004.py")
+2018-04-19T15:58:34: Parsing "encodings.iso2022_jp_3" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso2022_jp_3.py")
+2018-04-19T15:58:34: Parsing "encodings.iso2022_jp_ext" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso2022_jp_ext.py")
+2018-04-19T15:58:34: Parsing "encodings.iso2022_kr" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso2022_kr.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_1" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_1.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_10" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_10.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_11" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_11.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_13" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_13.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_14" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_14.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_15" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_15.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_16" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_16.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_2" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_2.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_3" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_3.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_4" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_4.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_5" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_5.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_6" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_6.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_7" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_7.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_8" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_8.py")
+2018-04-19T15:58:34: Parsing "encodings.iso8859_9" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\iso8859_9.py")
+2018-04-19T15:58:34: Parsing "encodings.johab" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\johab.py")
+2018-04-19T15:58:34: Parsing "encodings.koi8_r" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\koi8_r.py")
+2018-04-19T15:58:34: Parsing "encodings.koi8_u" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\koi8_u.py")
+2018-04-19T15:58:34: Parsing "encodings.latin_1" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\latin_1.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_arabic" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_arabic.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_centeuro" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_centeuro.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_croatian" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_croatian.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_cyrillic" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_cyrillic.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_farsi" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_farsi.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_greek" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_greek.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_iceland" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_iceland.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_latin2" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_latin2.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_roman" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_roman.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_romanian" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_romanian.py")
+2018-04-19T15:58:34: Parsing "encodings.mac_turkish" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mac_turkish.py")
+2018-04-19T15:58:34: Parsing "encodings.mbcs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\mbcs.py")
+2018-04-19T15:58:34: Parsing "encodings.palmos" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\palmos.py")
+2018-04-19T15:58:34: Parsing "encodings.ptcp154" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\ptcp154.py")
+2018-04-19T15:58:34: Parsing "encodings.punycode" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\punycode.py")
+2018-04-19T15:58:34: Parsing "encodings.quopri_codec" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\quopri_codec.py")
+2018-04-19T15:58:34: Parsing "encodings.raw_unicode_escape" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\raw_unicode_escape.py")
+2018-04-19T15:58:34: Parsing "encodings.rot_13" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\rot_13.py")
+2018-04-19T15:58:34: Parsing "encodings.shift_jis" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\shift_jis.py")
+2018-04-19T15:58:34: Parsing "encodings.shift_jisx0213" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\shift_jisx0213.py")
+2018-04-19T15:58:34: Parsing "encodings.shift_jis_2004" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\shift_jis_2004.py")
+2018-04-19T15:58:34: Parsing "encodings.tis_620" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\tis_620.py")
+2018-04-19T15:58:34: Parsing "encodings.undefined" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\undefined.py")
+2018-04-19T15:58:34: Parsing "encodings.unicode_escape" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\unicode_escape.py")
+2018-04-19T15:58:34: Parsing "encodings.unicode_internal" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\unicode_internal.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_16" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_16.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_16_be" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_16_be.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_16_le" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_16_le.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_32" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_32.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_32_be" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_32_be.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_32_le" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_32_le.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_7" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_7.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_8" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_8.py")
+2018-04-19T15:58:34: Parsing "encodings.utf_8_sig" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\utf_8_sig.py")
+2018-04-19T15:58:34: Parsing "encodings.uu_codec" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\uu_codec.py")
+2018-04-19T15:58:34: Parsing "encodings.zlib_codec" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\zlib_codec.py")
+2018-04-19T15:58:34: Parsing "encodings" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\encodings\__init__.py")
+2018-04-19T15:58:34: Parsing "importlib.abc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\importlib\abc.py")
+2018-04-19T15:58:34: Parsing "importlib.machinery" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\importlib\machinery.py")
+2018-04-19T15:58:34: Parsing "importlib.util" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\importlib\util.py")
+2018-04-19T15:58:34: Parsing "importlib._bootstrap" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\importlib\_bootstrap.py")
+2018-04-19T15:58:34: Parsing "importlib" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\importlib\__init__.py")
+2018-04-19T15:58:34: Parsing complete
+2018-04-19T15:58:34: Analyzing "abc"
+2018-04-19T15:58:34: Analyzing "base64"
+2018-04-19T15:58:34: Analyzing "bisect"
+2018-04-19T15:58:34: Analyzing "codecs"
+2018-04-19T15:58:34: Analyzing "copy"
+2018-04-19T15:58:34: Analyzing "copyreg"
+2018-04-19T15:58:34: Analyzing "fnmatch"
+2018-04-19T15:58:34: Analyzing "functools"
+2018-04-19T15:58:34: Analyzing "genericpath"
+2018-04-19T15:58:34: Analyzing "hashlib"
+2018-04-19T15:58:34: Analyzing "heapq"
+2018-04-19T15:58:34: Analyzing "hmac"
+2018-04-19T15:58:34: Analyzing "imp"
+2018-04-19T15:58:34: Analyzing "io"
+2018-04-19T15:58:34: Analyzing "keyword"
+2018-04-19T15:58:34: Analyzing "linecache"
+2018-04-19T15:58:34: Analyzing "locale"
+2018-04-19T15:58:34: Analyzing "ntpath"
+2018-04-19T15:58:34: Analyzing "operator"
+2018-04-19T15:58:34: Analyzing "os"
+2018-04-19T15:58:34: Analyzing "posixpath"
+2018-04-19T15:58:34: Analyzing "random"
+2018-04-19T15:58:34: Analyzing "re"
+2018-04-19T15:58:34: Analyzing "reprlib"
+2018-04-19T15:58:34: Analyzing "rlcompleter"
+2018-04-19T15:58:34: Analyzing "shutil"
+2018-04-19T15:58:34: Analyzing "site"
+2018-04-19T15:58:34: Analyzing "sre_compile"
+2018-04-19T15:58:34: Analyzing "sre_constants"
+2018-04-19T15:58:34: Analyzing "sre_parse"
+2018-04-19T15:58:34: Analyzing "stat"
+2018-04-19T15:58:34: Analyzing "struct"
+2018-04-19T15:58:34: Analyzing "tarfile"
+2018-04-19T15:58:34: Analyzing "tempfile"
+2018-04-19T15:58:34: Analyzing "token"
+2018-04-19T15:58:34: Analyzing "tokenize"
+2018-04-19T15:58:34: Analyzing "types"
+2018-04-19T15:58:34: Analyzing "warnings"
+2018-04-19T15:58:34: Analyzing "weakref"
+2018-04-19T15:58:34: Analyzing "_bootlocale"
+2018-04-19T15:58:34: Analyzing "_collections_abc"
+2018-04-19T15:58:34: Analyzing "_dummy_thread"
+2018-04-19T15:58:34: Analyzing "_weakrefset"
+2018-04-19T15:58:34: Analyzing "__future__"
+2018-04-19T15:58:34: Analyzing "collections.abc"
+2018-04-19T15:58:34: Analyzing "collections"
+2018-04-19T15:58:34: Analyzing "collections.__main__"
+2018-04-19T15:58:34: Analyzing "distutils"
+2018-04-19T15:58:34: Analyzing "encodings.aliases"
+2018-04-19T15:58:34: Analyzing "encodings.ascii"
+2018-04-19T15:58:34: Analyzing "encodings.base64_codec"
+2018-04-19T15:58:34: Analyzing "encodings.big5"
+2018-04-19T15:58:34: Analyzing "encodings.big5hkscs"
+2018-04-19T15:58:34: Analyzing "encodings.bz2_codec"
+2018-04-19T15:58:34: Analyzing "encodings.charmap"
+2018-04-19T15:58:34: Analyzing "encodings.cp037"
+2018-04-19T15:58:34: Analyzing "encodings.cp1006"
+2018-04-19T15:58:34: Analyzing "encodings.cp1026"
+2018-04-19T15:58:34: Analyzing "encodings.cp1125"
+2018-04-19T15:58:34: Analyzing "encodings.cp1140"
+2018-04-19T15:58:34: Analyzing "encodings.cp1250"
+2018-04-19T15:58:34: Analyzing "encodings.cp1251"
+2018-04-19T15:58:34: Analyzing "encodings.cp1252"
+2018-04-19T15:58:34: Analyzing "encodings.cp1253"
+2018-04-19T15:58:34: Analyzing "encodings.cp1254"
+2018-04-19T15:58:34: Analyzing "encodings.cp1255"
+2018-04-19T15:58:34: Analyzing "encodings.cp1256"
+2018-04-19T15:58:34: Analyzing "encodings.cp1257"
+2018-04-19T15:58:34: Analyzing "encodings.cp1258"
+2018-04-19T15:58:34: Analyzing "encodings.cp273"
+2018-04-19T15:58:34: Analyzing "encodings.cp424"
+2018-04-19T15:58:34: Analyzing "encodings.cp437"
+2018-04-19T15:58:34: Analyzing "encodings.cp500"
+2018-04-19T15:58:34: Analyzing "encodings.cp65001"
+2018-04-19T15:58:34: Analyzing "encodings.cp720"
+2018-04-19T15:58:34: Analyzing "encodings.cp737"
+2018-04-19T15:58:34: Analyzing "encodings.cp775"
+2018-04-19T15:58:34: Analyzing "encodings.cp850"
+2018-04-19T15:58:34: Analyzing "encodings.cp852"
+2018-04-19T15:58:34: Analyzing "encodings.cp855"
+2018-04-19T15:58:34: Analyzing "encodings.cp856"
+2018-04-19T15:58:34: Analyzing "encodings.cp857"
+2018-04-19T15:58:34: Analyzing "encodings.cp858"
+2018-04-19T15:58:34: Analyzing "encodings.cp860"
+2018-04-19T15:58:34: Analyzing "encodings.cp861"
+2018-04-19T15:58:34: Analyzing "encodings.cp862"
+2018-04-19T15:58:34: Analyzing "encodings.cp863"
+2018-04-19T15:58:34: Analyzing "encodings.cp864"
+2018-04-19T15:58:34: Analyzing "encodings.cp865"
+2018-04-19T15:58:34: Analyzing "encodings.cp866"
+2018-04-19T15:58:34: Analyzing "encodings.cp869"
+2018-04-19T15:58:34: Analyzing "encodings.cp874"
+2018-04-19T15:58:34: Analyzing "encodings.cp875"
+2018-04-19T15:58:34: Analyzing "encodings.cp932"
+2018-04-19T15:58:34: Analyzing "encodings.cp949"
+2018-04-19T15:58:34: Analyzing "encodings.cp950"
+2018-04-19T15:58:34: Analyzing "encodings.euc_jisx0213"
+2018-04-19T15:58:34: Analyzing "encodings.euc_jis_2004"
+2018-04-19T15:58:34: Analyzing "encodings.euc_jp"
+2018-04-19T15:58:34: Analyzing "encodings.euc_kr"
+2018-04-19T15:58:34: Analyzing "encodings.gb18030"
+2018-04-19T15:58:34: Analyzing "encodings.gb2312"
+2018-04-19T15:58:34: Analyzing "encodings.gbk"
+2018-04-19T15:58:34: Analyzing "encodings.hex_codec"
+2018-04-19T15:58:34: Analyzing "encodings.hp_roman8"
+2018-04-19T15:58:34: Analyzing "encodings.hz"
+2018-04-19T15:58:34: Analyzing "encodings.idna"
+2018-04-19T15:58:34: Analyzing "encodings.iso2022_jp"
+2018-04-19T15:58:34: Analyzing "encodings.iso2022_jp_1"
+2018-04-19T15:58:34: Analyzing "encodings.iso2022_jp_2"
+2018-04-19T15:58:34: Analyzing "encodings.iso2022_jp_2004"
+2018-04-19T15:58:34: Analyzing "encodings.iso2022_jp_3"
+2018-04-19T15:58:34: Analyzing "encodings.iso2022_jp_ext"
+2018-04-19T15:58:34: Analyzing "encodings.iso2022_kr"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_1"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_10"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_11"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_13"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_14"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_15"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_16"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_2"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_3"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_4"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_5"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_6"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_7"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_8"
+2018-04-19T15:58:34: Analyzing "encodings.iso8859_9"
+2018-04-19T15:58:34: Analyzing "encodings.johab"
+2018-04-19T15:58:34: Analyzing "encodings.koi8_r"
+2018-04-19T15:58:34: Analyzing "encodings.koi8_u"
+2018-04-19T15:58:34: Analyzing "encodings.latin_1"
+2018-04-19T15:58:34: Analyzing "encodings.mac_arabic"
+2018-04-19T15:58:34: Analyzing "encodings.mac_centeuro"
+2018-04-19T15:58:34: Analyzing "encodings.mac_croatian"
+2018-04-19T15:58:34: Analyzing "encodings.mac_cyrillic"
+2018-04-19T15:58:34: Analyzing "encodings.mac_farsi"
+2018-04-19T15:58:34: Analyzing "encodings.mac_greek"
+2018-04-19T15:58:34: Analyzing "encodings.mac_iceland"
+2018-04-19T15:58:34: Analyzing "encodings.mac_latin2"
+2018-04-19T15:58:34: Analyzing "encodings.mac_roman"
+2018-04-19T15:58:34: Analyzing "encodings.mac_romanian"
+2018-04-19T15:58:34: Analyzing "encodings.mac_turkish"
+2018-04-19T15:58:34: Analyzing "encodings.mbcs"
+2018-04-19T15:58:34: Analyzing "encodings.palmos"
+2018-04-19T15:58:34: Analyzing "encodings.ptcp154"
+2018-04-19T15:58:34: Analyzing "encodings.punycode"
+2018-04-19T15:58:34: Analyzing "encodings.quopri_codec"
+2018-04-19T15:58:34: Analyzing "encodings.raw_unicode_escape"
+2018-04-19T15:58:34: Analyzing "encodings.rot_13"
+2018-04-19T15:58:34: Analyzing "encodings.shift_jis"
+2018-04-19T15:58:34: Analyzing "encodings.shift_jisx0213"
+2018-04-19T15:58:34: Analyzing "encodings.shift_jis_2004"
+2018-04-19T15:58:34: Analyzing "encodings.tis_620"
+2018-04-19T15:58:34: Analyzing "encodings.undefined"
+2018-04-19T15:58:34: Analyzing "encodings.unicode_escape"
+2018-04-19T15:58:34: Analyzing "encodings.unicode_internal"
+2018-04-19T15:58:34: Analyzing "encodings.utf_16"
+2018-04-19T15:58:34: Analyzing "encodings.utf_16_be"
+2018-04-19T15:58:34: Analyzing "encodings.utf_16_le"
+2018-04-19T15:58:34: Analyzing "encodings.utf_32"
+2018-04-19T15:58:34: Analyzing "encodings.utf_32_be"
+2018-04-19T15:58:34: Analyzing "encodings.utf_32_le"
+2018-04-19T15:58:34: Analyzing "encodings.utf_7"
+2018-04-19T15:58:34: Analyzing "encodings.utf_8"
+2018-04-19T15:58:34: Analyzing "encodings.utf_8_sig"
+2018-04-19T15:58:34: Analyzing "encodings.uu_codec"
+2018-04-19T15:58:34: Analyzing "encodings.zlib_codec"
+2018-04-19T15:58:34: Analyzing "encodings"
+2018-04-19T15:58:34: Analyzing "importlib.abc"
+2018-04-19T15:58:34: Analyzing "importlib.machinery"
+2018-04-19T15:58:34: Analyzing "importlib.util"
+2018-04-19T15:58:34: Analyzing "importlib._bootstrap"
+2018-04-19T15:58:34: Analyzing "importlib"
+2018-04-19T15:58:34: Starting analysis of 175 modules
+2018-04-19T15:58:55: Analysis complete
+2018-04-19T15:58:55: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib"
+2018-04-19T15:58:55: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib"
+2018-04-19T15:58:55: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages" with 1 files
+2018-04-19T15:58:55: Parsing "easy_install" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easy_install.py")
+2018-04-19T15:58:55: Parsing complete
+2018-04-19T15:58:55: Analyzing "easy_install"
+2018-04-19T15:58:55: Starting analysis of 1 modules
+2018-04-19T15:58:55: Analysis complete
+2018-04-19T15:58:55: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages"
+2018-04-19T15:58:57: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages"
+2018-04-19T15:58:57: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip" with 282 files
+2018-04-19T15:58:57: Parsing "pip" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\__init__.py")
+2018-04-19T15:58:57: Parsing "pip.__main__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\__main__.py")
+2018-04-19T15:58:57: Parsing "pip._internal.basecommand" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\basecommand.py")
+2018-04-19T15:58:57: Parsing "pip._internal.baseparser" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\baseparser.py")
+2018-04-19T15:58:57: Parsing "pip._internal.build_env" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\build_env.py")
+2018-04-19T15:58:57: Parsing "pip._internal.cache" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\cache.py")
+2018-04-19T15:58:57: Parsing "pip._internal.cmdoptions" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\cmdoptions.py")
+2018-04-19T15:58:57: Parsing "pip._internal.compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\compat.py")
+2018-04-19T15:58:57: Parsing "pip._internal.configuration" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\configuration.py")
+2018-04-19T15:58:57: Parsing "pip._internal.download" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\download.py")
+2018-04-19T15:58:57: Parsing "pip._internal.exceptions" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\exceptions.py")
+2018-04-19T15:58:57: Parsing "pip._internal.index" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\index.py")
+2018-04-19T15:58:57: Parsing "pip._internal.locations" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\locations.py")
+2018-04-19T15:58:57: Parsing "pip._internal.pep425tags" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\pep425tags.py")
+2018-04-19T15:58:57: Parsing "pip._internal.resolve" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\resolve.py")
+2018-04-19T15:58:57: Parsing "pip._internal.status_codes" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\status_codes.py")
+2018-04-19T15:58:57: Parsing "pip._internal.wheel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\wheel.py")
+2018-04-19T15:58:57: Parsing "pip._internal" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.check" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\check.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.completion" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\completion.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.configuration" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\configuration.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.download" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\download.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.freeze" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\freeze.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.hash" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\hash.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.help" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\help.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.install" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\install.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.list" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\list.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.search" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\search.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.show" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\show.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.uninstall" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\uninstall.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands.wheel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\wheel.py")
+2018-04-19T15:58:57: Parsing "pip._internal.commands" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\commands\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._internal.models.index" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\models\index.py")
+2018-04-19T15:58:57: Parsing "pip._internal.models" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\models\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._internal.operations.check" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\operations\check.py")
+2018-04-19T15:58:57: Parsing "pip._internal.operations.freeze" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\operations\freeze.py")
+2018-04-19T15:58:57: Parsing "pip._internal.operations.prepare" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\operations\prepare.py")
+2018-04-19T15:58:57: Parsing "pip._internal.operations" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\operations\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._internal.req.req_file" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\req\req_file.py")
+2018-04-19T15:58:57: Parsing "pip._internal.req.req_install" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\req\req_install.py")
+2018-04-19T15:58:57: Parsing "pip._internal.req.req_set" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\req\req_set.py")
+2018-04-19T15:58:57: Parsing "pip._internal.req.req_uninstall" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\req\req_uninstall.py")
+2018-04-19T15:58:57: Parsing "pip._internal.req" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\req\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.appdirs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\appdirs.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.deprecation" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\deprecation.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.encoding" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\encoding.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.filesystem" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\filesystem.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.glibc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\glibc.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.hashes" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\hashes.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.logging" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\logging.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.misc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\misc.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.outdated" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\outdated.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.packaging" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\packaging.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.setuptools_build" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\setuptools_build.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.temp_dir" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\temp_dir.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.typing" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\typing.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils.ui" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\ui.py")
+2018-04-19T15:58:57: Parsing "pip._internal.utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\utils\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._internal.vcs.bazaar" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\vcs\bazaar.py")
+2018-04-19T15:58:57: Parsing "pip._internal.vcs.git" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\vcs\git.py")
+2018-04-19T15:58:57: Parsing "pip._internal.vcs.mercurial" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\vcs\mercurial.py")
+2018-04-19T15:58:57: Parsing "pip._internal.vcs.subversion" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\vcs\subversion.py")
+2018-04-19T15:58:57: Parsing "pip._internal.vcs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_internal\vcs\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.appdirs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\appdirs.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distro" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distro.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.ipaddress" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\ipaddress.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.pyparsing" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\pyparsing.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.retrying" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\retrying.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.six" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\six.py")
+2018-04-19T15:58:57: Parsing "pip._vendor" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.adapter" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.cache" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.controller" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.filewrapper" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.heuristics" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.serialize" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.wrapper" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol._cmd" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.cachecontrol.caches" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.certifi.core" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\certifi\core.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.certifi" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\certifi\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.certifi.__main__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\certifi\__main__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.big5freq" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\big5freq.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.big5prober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\big5prober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.chardistribution" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\chardistribution.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.charsetgroupprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\charsetgroupprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.charsetprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\charsetprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.codingstatemachine" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\codingstatemachine.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\compat.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.cp949prober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\cp949prober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.enums" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\enums.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.escprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\escprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.escsm" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\escsm.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.eucjpprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\eucjpprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.euckrfreq" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\euckrfreq.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.euckrprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\euckrprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.euctwfreq" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\euctwfreq.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.euctwprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\euctwprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.gb2312freq" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\gb2312freq.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.gb2312prober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\gb2312prober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.hebrewprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\hebrewprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.jisfreq" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\jisfreq.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.jpcntx" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\jpcntx.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.langbulgarianmodel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\langbulgarianmodel.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.langcyrillicmodel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\langcyrillicmodel.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.langgreekmodel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\langgreekmodel.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.langhebrewmodel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\langhebrewmodel.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.langhungarianmodel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\langhungarianmodel.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.langthaimodel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\langthaimodel.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.langturkishmodel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\langturkishmodel.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.latin1prober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\latin1prober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.mbcharsetprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\mbcharsetprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.mbcsgroupprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\mbcsgroupprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.mbcssm" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\mbcssm.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.sbcharsetprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\sbcharsetprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.sbcsgroupprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\sbcsgroupprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.sjisprober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\sjisprober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.universaldetector" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\universaldetector.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.utf8prober" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\utf8prober.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.version" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\version.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.cli.chardetect" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\cli\chardetect.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.chardet.cli" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\chardet\cli\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.colorama.ansi" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.colorama.initialise" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.colorama.win32" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.colorama.winterm" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.colorama" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.database" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\database.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.index" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\index.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.locators" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.manifest" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.markers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.metadata" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.resources" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.scripts" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.util" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\util.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.version" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\version.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib.wheel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib._backport.misc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.distlib._backport" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.constants" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.html5parser" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.serializer" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib._ihatexml" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib._inputstream" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib._tokenizer" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib._utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.filters.base" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.filters" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treebuilders.base" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treewalkers.base" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib._trie.datrie" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib._trie.py" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib._trie._base" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.html5lib._trie" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.idna.codec" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\idna\codec.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.idna.compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\idna\compat.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.idna.core" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\idna\core.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.idna.idnadata" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\idna\idnadata.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.idna.intranges" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\idna\intranges.py")
+2018-04-19T15:58:57: Parsing "pip._vendor.idna.package_data" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\idna\package_data.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.idna.uts46data" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\idna\uts46data.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.idna" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\idna\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.lockfile.linklockfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.lockfile.mkdirlockfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.lockfile.pidlockfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.lockfile.sqlitelockfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.lockfile.symlinklockfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.lockfile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.msgpack.exceptions" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\msgpack\exceptions.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.msgpack.fallback" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\msgpack\fallback.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.msgpack._version" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\msgpack\_version.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.msgpack" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\msgpack\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging.markers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging.requirements" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging.specifiers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging.utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging.version" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\version.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging._compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging._structures" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging.__about__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.packaging" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.pkg_resources.py31compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\pkg_resources\py31compat.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.pkg_resources" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.progress.bar" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\progress\bar.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.progress.counter" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\progress\counter.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.progress.helpers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.progress.spinner" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.progress" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.pytoml.core" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\pytoml\core.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.pytoml.parser" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\pytoml\parser.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.pytoml.writer" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\pytoml\writer.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.pytoml" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\pytoml\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.adapters" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.api" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\api.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.auth" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\auth.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.certs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\certs.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\compat.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.cookies" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.exceptions" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.help" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\help.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.hooks" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.models" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\models.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.packages" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\packages.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.sessions" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.status_codes" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.structures" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\structures.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\utils.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests._internal_utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\_internal_utils.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.requests.__version__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\requests\__version__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.connection" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\connection.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.connectionpool" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.exceptions" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\exceptions.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.fields" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\fields.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.filepost" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\filepost.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.poolmanager" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\poolmanager.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.request" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\request.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.response" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\response.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3._collections" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\_collections.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib.appengine" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\appengine.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib.ntlmpool" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\ntlmpool.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib.pyopenssl" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\pyopenssl.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib.securetransport" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\securetransport.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib.socks" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\socks.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib._securetransport.bindings" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib._securetransport.low_level" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\low_level.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.contrib._securetransport" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.packages.ordered_dict" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\packages\ordered_dict.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.packages.six" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\packages\six.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.packages" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\packages\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.packages.backports.makefile" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\packages\backports\makefile.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.packages.backports" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\packages\backports\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname\_implementation.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.packages.ssl_match_hostname" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.connection" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\connection.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.request" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\request.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.response" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\response.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.retry" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\retry.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.selectors" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\selectors.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.ssl_" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\ssl_.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.timeout" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\timeout.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.url" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\url.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util.wait" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\wait.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.urllib3.util" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\urllib3\util\__init__.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.webencodings.labels" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.webencodings.mklabels" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.webencodings.tests" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.webencodings.x_user_defined" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2018-04-19T15:58:58: Parsing "pip._vendor.webencodings" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2018-04-19T15:58:58: Parsing complete
+2018-04-19T15:58:58: Analyzing "pip"
+2018-04-19T15:58:58: Analyzing "pip.__main__"
+2018-04-19T15:58:58: Analyzing "pip._internal.basecommand"
+2018-04-19T15:58:58: Analyzing "pip._internal.baseparser"
+2018-04-19T15:58:58: Analyzing "pip._internal.build_env"
+2018-04-19T15:58:58: Analyzing "pip._internal.cache"
+2018-04-19T15:58:58: Analyzing "pip._internal.cmdoptions"
+2018-04-19T15:58:58: Analyzing "pip._internal.compat"
+2018-04-19T15:58:58: Analyzing "pip._internal.configuration"
+2018-04-19T15:58:58: Analyzing "pip._internal.download"
+2018-04-19T15:58:58: Analyzing "pip._internal.exceptions"
+2018-04-19T15:58:58: Analyzing "pip._internal.index"
+2018-04-19T15:58:58: Analyzing "pip._internal.locations"
+2018-04-19T15:58:58: Analyzing "pip._internal.pep425tags"
+2018-04-19T15:58:58: Analyzing "pip._internal.resolve"
+2018-04-19T15:58:58: Analyzing "pip._internal.status_codes"
+2018-04-19T15:58:58: Analyzing "pip._internal.wheel"
+2018-04-19T15:58:58: Analyzing "pip._internal"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.check"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.completion"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.configuration"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.download"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.freeze"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.hash"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.help"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.install"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.list"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.search"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.show"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.uninstall"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands.wheel"
+2018-04-19T15:58:58: Analyzing "pip._internal.commands"
+2018-04-19T15:58:58: Analyzing "pip._internal.models.index"
+2018-04-19T15:58:58: Analyzing "pip._internal.models"
+2018-04-19T15:58:58: Analyzing "pip._internal.operations.check"
+2018-04-19T15:58:58: Analyzing "pip._internal.operations.freeze"
+2018-04-19T15:58:58: Analyzing "pip._internal.operations.prepare"
+2018-04-19T15:58:58: Analyzing "pip._internal.operations"
+2018-04-19T15:58:58: Analyzing "pip._internal.req.req_file"
+2018-04-19T15:58:58: Analyzing "pip._internal.req.req_install"
+2018-04-19T15:58:58: Analyzing "pip._internal.req.req_set"
+2018-04-19T15:58:58: Analyzing "pip._internal.req.req_uninstall"
+2018-04-19T15:58:58: Analyzing "pip._internal.req"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.appdirs"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.deprecation"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.encoding"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.filesystem"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.glibc"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.hashes"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.logging"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.misc"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.outdated"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.packaging"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.setuptools_build"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.temp_dir"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.typing"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils.ui"
+2018-04-19T15:58:58: Analyzing "pip._internal.utils"
+2018-04-19T15:58:58: Analyzing "pip._internal.vcs.bazaar"
+2018-04-19T15:58:58: Analyzing "pip._internal.vcs.git"
+2018-04-19T15:58:58: Analyzing "pip._internal.vcs.mercurial"
+2018-04-19T15:58:58: Analyzing "pip._internal.vcs.subversion"
+2018-04-19T15:58:58: Analyzing "pip._internal.vcs"
+2018-04-19T15:58:58: Analyzing "pip._vendor.appdirs"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distro"
+2018-04-19T15:58:58: Analyzing "pip._vendor.ipaddress"
+2018-04-19T15:58:58: Analyzing "pip._vendor.pyparsing"
+2018-04-19T15:58:58: Analyzing "pip._vendor.retrying"
+2018-04-19T15:58:58: Analyzing "pip._vendor.six"
+2018-04-19T15:58:58: Analyzing "pip._vendor"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.adapter"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.cache"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.compat"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.controller"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.heuristics"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.serialize"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.wrapper"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol._cmd"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2018-04-19T15:58:58: Analyzing "pip._vendor.cachecontrol.caches"
+2018-04-19T15:58:58: Analyzing "pip._vendor.certifi.core"
+2018-04-19T15:58:58: Analyzing "pip._vendor.certifi"
+2018-04-19T15:58:58: Analyzing "pip._vendor.certifi.__main__"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.big5freq"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.big5prober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.chardistribution"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.charsetgroupprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.charsetprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.codingstatemachine"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.compat"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.cp949prober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.enums"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.escprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.escsm"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.eucjpprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.euckrfreq"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.euckrprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.euctwfreq"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.euctwprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.gb2312freq"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.gb2312prober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.hebrewprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.jisfreq"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.jpcntx"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.langbulgarianmodel"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.langcyrillicmodel"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.langgreekmodel"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.langhebrewmodel"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.langhungarianmodel"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.langthaimodel"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.langturkishmodel"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.latin1prober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.mbcharsetprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.mbcsgroupprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.mbcssm"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.sbcharsetprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.sbcsgroupprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.sjisprober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.universaldetector"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.utf8prober"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.version"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.cli.chardetect"
+2018-04-19T15:58:58: Analyzing "pip._vendor.chardet.cli"
+2018-04-19T15:58:58: Analyzing "pip._vendor.colorama.ansi"
+2018-04-19T15:58:58: Analyzing "pip._vendor.colorama.ansitowin32"
+2018-04-19T15:58:58: Analyzing "pip._vendor.colorama.initialise"
+2018-04-19T15:58:58: Analyzing "pip._vendor.colorama.win32"
+2018-04-19T15:58:58: Analyzing "pip._vendor.colorama.winterm"
+2018-04-19T15:58:58: Analyzing "pip._vendor.colorama"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.compat"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.database"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.index"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.locators"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.manifest"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.markers"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.metadata"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.resources"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.scripts"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.util"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.version"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib.wheel"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib._backport.misc"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib._backport.shutil"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib._backport.tarfile"
+2018-04-19T15:58:58: Analyzing "pip._vendor.distlib._backport"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.constants"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.html5parser"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.serializer"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib._ihatexml"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib._inputstream"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib._tokenizer"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib._utils"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.filters.base"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.filters.lint"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.filters"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treeadapters"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treebuilders"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib.treewalkers"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib._trie.datrie"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib._trie.py"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib._trie._base"
+2018-04-19T15:58:58: Analyzing "pip._vendor.html5lib._trie"
+2018-04-19T15:58:58: Analyzing "pip._vendor.idna.codec"
+2018-04-19T15:58:58: Analyzing "pip._vendor.idna.compat"
+2018-04-19T15:58:58: Analyzing "pip._vendor.idna.core"
+2018-04-19T15:58:58: Analyzing "pip._vendor.idna.idnadata"
+2018-04-19T15:58:58: Analyzing "pip._vendor.idna.intranges"
+2018-04-19T15:58:58: Analyzing "pip._vendor.idna.package_data"
+2018-04-19T15:58:58: Analyzing "pip._vendor.idna.uts46data"
+2018-04-19T15:58:58: Analyzing "pip._vendor.idna"
+2018-04-19T15:58:58: Analyzing "pip._vendor.lockfile.linklockfile"
+2018-04-19T15:58:58: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2018-04-19T15:58:58: Analyzing "pip._vendor.lockfile.pidlockfile"
+2018-04-19T15:58:58: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2018-04-19T15:58:58: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2018-04-19T15:58:58: Analyzing "pip._vendor.lockfile"
+2018-04-19T15:58:58: Analyzing "pip._vendor.msgpack.exceptions"
+2018-04-19T15:58:58: Analyzing "pip._vendor.msgpack.fallback"
+2018-04-19T15:58:58: Analyzing "pip._vendor.msgpack._version"
+2018-04-19T15:58:58: Analyzing "pip._vendor.msgpack"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging.markers"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging.requirements"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging.specifiers"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging.utils"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging.version"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging._compat"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging._structures"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging.__about__"
+2018-04-19T15:58:58: Analyzing "pip._vendor.packaging"
+2018-04-19T15:58:58: Analyzing "pip._vendor.pkg_resources.py31compat"
+2018-04-19T15:58:58: Analyzing "pip._vendor.pkg_resources"
+2018-04-19T15:58:58: Analyzing "pip._vendor.progress.bar"
+2018-04-19T15:58:58: Analyzing "pip._vendor.progress.counter"
+2018-04-19T15:58:58: Analyzing "pip._vendor.progress.helpers"
+2018-04-19T15:58:58: Analyzing "pip._vendor.progress.spinner"
+2018-04-19T15:58:58: Analyzing "pip._vendor.progress"
+2018-04-19T15:58:58: Analyzing "pip._vendor.pytoml.core"
+2018-04-19T15:58:58: Analyzing "pip._vendor.pytoml.parser"
+2018-04-19T15:58:58: Analyzing "pip._vendor.pytoml.writer"
+2018-04-19T15:58:58: Analyzing "pip._vendor.pytoml"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.adapters"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.api"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.auth"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.certs"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.compat"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.cookies"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.exceptions"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.help"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.hooks"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.models"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.packages"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.sessions"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.status_codes"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.structures"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.utils"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests._internal_utils"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests"
+2018-04-19T15:58:58: Analyzing "pip._vendor.requests.__version__"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.connection"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.connectionpool"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.exceptions"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.fields"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.filepost"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.poolmanager"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.request"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.response"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3._collections"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib.appengine"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib.ntlmpool"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib.pyopenssl"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib.securetransport"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib.socks"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib._securetransport.bindings"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib._securetransport.low_level"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.contrib._securetransport"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.packages.ordered_dict"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.packages.six"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.packages"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.packages.backports.makefile"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.packages.backports"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.packages.ssl_match_hostname._implementation"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.packages.ssl_match_hostname"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.connection"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.request"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.response"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.retry"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.selectors"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.ssl_"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.timeout"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.url"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util.wait"
+2018-04-19T15:58:58: Analyzing "pip._vendor.urllib3.util"
+2018-04-19T15:58:58: Analyzing "pip._vendor.webencodings.labels"
+2018-04-19T15:58:58: Analyzing "pip._vendor.webencodings.mklabels"
+2018-04-19T15:58:58: Analyzing "pip._vendor.webencodings.tests"
+2018-04-19T15:58:58: Analyzing "pip._vendor.webencodings.x_user_defined"
+2018-04-19T15:58:58: Analyzing "pip._vendor.webencodings"
+2018-04-19T15:58:58: Starting analysis of 282 modules
+2018-04-19T16:02:45: Analysis complete
+2018-04-19T16:02:45: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip"
+2018-04-19T16:02:46: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pip"
+2018-04-19T16:02:46: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources" with 16 files
+2018-04-19T16:02:46: Parsing "pkg_resources.py31compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\py31compat.py")
+2018-04-19T16:02:46: Parsing "pkg_resources" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\__init__.py")
+2018-04-19T16:02:46: Parsing "pkg_resources.extern" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\extern\__init__.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.appdirs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.pyparsing" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.six" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\six.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging.markers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging.requirements" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging.specifiers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging.utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging.version" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging._compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging._structures" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging.__about__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2018-04-19T16:02:46: Parsing "pkg_resources._vendor.packaging" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2018-04-19T16:02:46: Parsing complete
+2018-04-19T16:02:46: Analyzing "pkg_resources.py31compat"
+2018-04-19T16:02:46: Analyzing "pkg_resources"
+2018-04-19T16:02:46: Analyzing "pkg_resources.extern"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.appdirs"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.pyparsing"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.six"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging.markers"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging.requirements"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging.utils"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging.version"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging._compat"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging._structures"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging.__about__"
+2018-04-19T16:02:46: Analyzing "pkg_resources._vendor.packaging"
+2018-04-19T16:02:46: Starting analysis of 16 modules
+2018-04-19T16:02:49: Analysis complete
+2018-04-19T16:02:49: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources"
+2018-04-19T16:02:49: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\pkg_resources"
+2018-04-19T16:02:49: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools" with 65 files
+2018-04-19T16:02:49: Parsing "setuptools.archive_util" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\archive_util.py")
+2018-04-19T16:02:49: Parsing "setuptools.build_meta" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\build_meta.py")
+2018-04-19T16:02:49: Parsing "setuptools.config" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\config.py")
+2018-04-19T16:02:49: Parsing "setuptools.depends" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\depends.py")
+2018-04-19T16:02:49: Parsing "setuptools.dep_util" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\dep_util.py")
+2018-04-19T16:02:49: Parsing "setuptools.dist" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\dist.py")
+2018-04-19T16:02:49: Parsing "setuptools.extension" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\extension.py")
+2018-04-19T16:02:49: Parsing "setuptools.glibc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\glibc.py")
+2018-04-19T16:02:49: Parsing "setuptools.glob" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\glob.py")
+2018-04-19T16:02:49: Parsing "setuptools.launch" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\launch.py")
+2018-04-19T16:02:49: Parsing "setuptools.lib2to3_ex" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\lib2to3_ex.py")
+2018-04-19T16:02:49: Parsing "setuptools.monkey" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\monkey.py")
+2018-04-19T16:02:49: Parsing "setuptools.msvc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\msvc.py")
+2018-04-19T16:02:49: Parsing "setuptools.namespaces" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\namespaces.py")
+2018-04-19T16:02:49: Parsing "setuptools.package_index" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\package_index.py")
+2018-04-19T16:02:49: Parsing "setuptools.pep425tags" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\pep425tags.py")
+2018-04-19T16:02:49: Parsing "setuptools.py27compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\py27compat.py")
+2018-04-19T16:02:49: Parsing "setuptools.py31compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\py31compat.py")
+2018-04-19T16:02:49: Parsing "setuptools.py33compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\py33compat.py")
+2018-04-19T16:02:49: Parsing "setuptools.py36compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\py36compat.py")
+2018-04-19T16:02:49: Parsing "setuptools.sandbox" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\sandbox.py")
+2018-04-19T16:02:49: Parsing "setuptools.ssl_support" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\ssl_support.py")
+2018-04-19T16:02:49: Parsing "setuptools.unicode_utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\unicode_utils.py")
+2018-04-19T16:02:49: Parsing "setuptools.version" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\version.py")
+2018-04-19T16:02:49: Parsing "setuptools.wheel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\wheel.py")
+2018-04-19T16:02:49: Parsing "setuptools.windows_support" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\windows_support.py")
+2018-04-19T16:02:49: Parsing "setuptools" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\__init__.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.alias" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\alias.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.bdist_egg" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\bdist_egg.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.bdist_rpm" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.bdist_wininst" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.build_clib" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\build_clib.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.build_ext" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\build_ext.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.build_py" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\build_py.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.develop" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\develop.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.dist_info" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\dist_info.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.easy_install" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\easy_install.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.egg_info" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\egg_info.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.install" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\install.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.install_egg_info" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\install_egg_info.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.install_lib" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\install_lib.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.install_scripts" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\install_scripts.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.py36compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\py36compat.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.register" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\register.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.rotate" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\rotate.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.saveopts" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\saveopts.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.sdist" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\sdist.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.setopt" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\setopt.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.test" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\test.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.upload" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\upload.py")
+2018-04-19T16:02:49: Parsing "setuptools.command.upload_docs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\upload_docs.py")
+2018-04-19T16:02:49: Parsing "setuptools.command" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\command\__init__.py")
+2018-04-19T16:02:49: Parsing "setuptools.extern" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\extern\__init__.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.pyparsing" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\pyparsing.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.six" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\six.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\__init__.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging.markers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\markers.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging.requirements" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\requirements.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging.specifiers" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\specifiers.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging.utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\utils.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging.version" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\version.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging._compat" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\_compat.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging._structures" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\_structures.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging.__about__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\__about__.py")
+2018-04-19T16:02:49: Parsing "setuptools._vendor.packaging" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools\_vendor\packaging\__init__.py")
+2018-04-19T16:02:49: Parsing complete
+2018-04-19T16:02:49: Analyzing "setuptools.archive_util"
+2018-04-19T16:02:49: Analyzing "setuptools.build_meta"
+2018-04-19T16:02:49: Analyzing "setuptools.config"
+2018-04-19T16:02:49: Analyzing "setuptools.depends"
+2018-04-19T16:02:49: Analyzing "setuptools.dep_util"
+2018-04-19T16:02:49: Analyzing "setuptools.dist"
+2018-04-19T16:02:49: Analyzing "setuptools.extension"
+2018-04-19T16:02:49: Analyzing "setuptools.glibc"
+2018-04-19T16:02:49: Analyzing "setuptools.glob"
+2018-04-19T16:02:49: Analyzing "setuptools.launch"
+2018-04-19T16:02:49: Analyzing "setuptools.lib2to3_ex"
+2018-04-19T16:02:49: Analyzing "setuptools.monkey"
+2018-04-19T16:02:49: Analyzing "setuptools.msvc"
+2018-04-19T16:02:49: Analyzing "setuptools.namespaces"
+2018-04-19T16:02:49: Analyzing "setuptools.package_index"
+2018-04-19T16:02:49: Analyzing "setuptools.pep425tags"
+2018-04-19T16:02:49: Analyzing "setuptools.py27compat"
+2018-04-19T16:02:49: Analyzing "setuptools.py31compat"
+2018-04-19T16:02:49: Analyzing "setuptools.py33compat"
+2018-04-19T16:02:49: Analyzing "setuptools.py36compat"
+2018-04-19T16:02:49: Analyzing "setuptools.sandbox"
+2018-04-19T16:02:49: Analyzing "setuptools.ssl_support"
+2018-04-19T16:02:49: Analyzing "setuptools.unicode_utils"
+2018-04-19T16:02:49: Analyzing "setuptools.version"
+2018-04-19T16:02:49: Analyzing "setuptools.wheel"
+2018-04-19T16:02:49: Analyzing "setuptools.windows_support"
+2018-04-19T16:02:49: Analyzing "setuptools"
+2018-04-19T16:02:49: Analyzing "setuptools.command.alias"
+2018-04-19T16:02:49: Analyzing "setuptools.command.bdist_egg"
+2018-04-19T16:02:49: Analyzing "setuptools.command.bdist_rpm"
+2018-04-19T16:02:49: Analyzing "setuptools.command.bdist_wininst"
+2018-04-19T16:02:49: Analyzing "setuptools.command.build_clib"
+2018-04-19T16:02:49: Analyzing "setuptools.command.build_ext"
+2018-04-19T16:02:49: Analyzing "setuptools.command.build_py"
+2018-04-19T16:02:49: Analyzing "setuptools.command.develop"
+2018-04-19T16:02:49: Analyzing "setuptools.command.dist_info"
+2018-04-19T16:02:49: Analyzing "setuptools.command.easy_install"
+2018-04-19T16:02:49: Analyzing "setuptools.command.egg_info"
+2018-04-19T16:02:49: Analyzing "setuptools.command.install"
+2018-04-19T16:02:49: Analyzing "setuptools.command.install_egg_info"
+2018-04-19T16:02:49: Analyzing "setuptools.command.install_lib"
+2018-04-19T16:02:49: Analyzing "setuptools.command.install_scripts"
+2018-04-19T16:02:49: Analyzing "setuptools.command.py36compat"
+2018-04-19T16:02:49: Analyzing "setuptools.command.register"
+2018-04-19T16:02:49: Analyzing "setuptools.command.rotate"
+2018-04-19T16:02:49: Analyzing "setuptools.command.saveopts"
+2018-04-19T16:02:49: Analyzing "setuptools.command.sdist"
+2018-04-19T16:02:49: Analyzing "setuptools.command.setopt"
+2018-04-19T16:02:49: Analyzing "setuptools.command.test"
+2018-04-19T16:02:49: Analyzing "setuptools.command.upload"
+2018-04-19T16:02:49: Analyzing "setuptools.command.upload_docs"
+2018-04-19T16:02:49: Analyzing "setuptools.command"
+2018-04-19T16:02:49: Analyzing "setuptools.extern"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.pyparsing"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.six"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging.markers"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging.requirements"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging.specifiers"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging.utils"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging.version"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging._compat"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging._structures"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging.__about__"
+2018-04-19T16:02:49: Analyzing "setuptools._vendor.packaging"
+2018-04-19T16:02:49: Starting analysis of 65 modules
+2018-04-19T16:02:53: Analysis complete
+2018-04-19T16:02:53: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools"
+2018-04-19T16:02:53: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\setuptools"
+2018-04-19T16:02:53: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel" with 17 files
+2018-04-19T16:02:54: Parsing "wheel.archive" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\archive.py")
+2018-04-19T16:02:54: Parsing "wheel.bdist_wheel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\bdist_wheel.py")
+2018-04-19T16:02:54: Parsing "wheel.egg2wheel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\egg2wheel.py")
+2018-04-19T16:02:54: Parsing "wheel.install" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\install.py")
+2018-04-19T16:02:54: Parsing "wheel.metadata" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\metadata.py")
+2018-04-19T16:02:54: Parsing "wheel.paths" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\paths.py")
+2018-04-19T16:02:54: Parsing "wheel.pep425tags" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\pep425tags.py")
+2018-04-19T16:02:54: Parsing "wheel.pkginfo" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\pkginfo.py")
+2018-04-19T16:02:54: Parsing "wheel.util" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\util.py")
+2018-04-19T16:02:54: Parsing "wheel.wininst2wheel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\wininst2wheel.py")
+2018-04-19T16:02:54: Parsing "wheel" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\__init__.py")
+2018-04-19T16:02:54: Parsing "wheel.__main__" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\__main__.py")
+2018-04-19T16:02:54: Parsing "wheel.signatures.djbec" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\signatures\djbec.py")
+2018-04-19T16:02:54: Parsing "wheel.signatures.ed25519py" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\signatures\ed25519py.py")
+2018-04-19T16:02:54: Parsing "wheel.signatures.keys" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\signatures\keys.py")
+2018-04-19T16:02:54: Parsing "wheel.signatures" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\signatures\__init__.py")
+2018-04-19T16:02:54: Parsing "wheel.tool" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel\tool\__init__.py")
+2018-04-19T16:02:54: Parsing complete
+2018-04-19T16:02:54: Analyzing "wheel.archive"
+2018-04-19T16:02:54: Analyzing "wheel.bdist_wheel"
+2018-04-19T16:02:54: Analyzing "wheel.egg2wheel"
+2018-04-19T16:02:54: Analyzing "wheel.install"
+2018-04-19T16:02:54: Analyzing "wheel.metadata"
+2018-04-19T16:02:54: Analyzing "wheel.paths"
+2018-04-19T16:02:54: Analyzing "wheel.pep425tags"
+2018-04-19T16:02:54: Analyzing "wheel.pkginfo"
+2018-04-19T16:02:54: Analyzing "wheel.util"
+2018-04-19T16:02:54: Analyzing "wheel.wininst2wheel"
+2018-04-19T16:02:54: Analyzing "wheel"
+2018-04-19T16:02:54: Analyzing "wheel.__main__"
+2018-04-19T16:02:54: Analyzing "wheel.signatures.djbec"
+2018-04-19T16:02:54: Analyzing "wheel.signatures.ed25519py"
+2018-04-19T16:02:54: Analyzing "wheel.signatures.keys"
+2018-04-19T16:02:54: Analyzing "wheel.signatures"
+2018-04-19T16:02:54: Analyzing "wheel.tool"
+2018-04-19T16:02:54: Starting analysis of 17 modules
+2018-04-19T16:02:56: Analysis complete
+2018-04-19T16:02:56: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel"
+2018-04-19T16:02:56: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\wheel"
+2018-04-19T16:02:56: Deleting 0 files
+2018-04-19T16:02:56: Scraping lxml.builder
+2018-04-19T16:02:56: Command: "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape lxml.builder "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages" "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\.ptvs\lxml\lxml.builder"
+2018-04-19T16:02:58: Scraping lxml.etree
+2018-04-19T16:02:58: Command: "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape lxml.etree "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages" "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\.ptvs\lxml\lxml.etree"
+2018-04-19T16:02:58: Scraping lxml.objectify
+2018-04-19T16:02:58: Command: "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape lxml.objectify "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages" "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\.ptvs\lxml\lxml.objectify"
+2018-04-19T16:02:59: Scraping lxml._elementpath
+2018-04-19T16:02:59: Command: "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape lxml._elementpath "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages" "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\.ptvs\lxml\lxml._elementpath"
+2018-04-19T16:02:59: Scraping lxml.html.clean
+2018-04-19T16:02:59: Command: "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape lxml.html.clean "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages" "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\.ptvs\lxml\lxml.html.clean"
+2018-04-19T16:02:59: Scraping lxml.html.diff
+2018-04-19T16:02:59: Command: "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape lxml.html.diff "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages" "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\.ptvs\lxml\lxml.html.diff"
+2018-04-19T16:03:00: Scraped 6 files
+2018-04-19T16:03:00: astropy.CallDepth = 0
+2018-04-19T16:03:00: matplotlib.CallDepth = 3
+2018-04-19T16:03:00: pandas.CallDepth = 0
+2018-04-19T16:03:00: sympy.CallDepth = 0
+2018-04-19T16:03:00: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui" with 19 files
+2018-04-19T16:03:00: Parsing "easygui.easygui" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\easygui.py")
+2018-04-19T16:03:00: Parsing "easygui" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\__init__.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.about" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\about.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.base_boxes" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\base_boxes.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.button_box" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\button_box.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.choice_box" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\choice_box.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.demo" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\demo.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.derived_boxes" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\derived_boxes.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.diropen_box" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\diropen_box.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.egstore" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\egstore.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.fileboxsetup" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\fileboxsetup.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.fileopen_box" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\fileopen_box.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.filesave_box" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\filesave_box.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.fillable_box" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\fillable_box.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.global_state" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\global_state.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.multi_fillable_box" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\multi_fillable_box.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.text_box" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\text_box.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes.utils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\utils.py")
+2018-04-19T16:03:00: Parsing "easygui.boxes" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui\boxes\__init__.py")
+2018-04-19T16:03:00: Parsing complete
+2018-04-19T16:03:00: Analyzing "easygui.easygui"
+2018-04-19T16:03:00: Analyzing "easygui"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.about"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.base_boxes"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.button_box"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.choice_box"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.demo"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.derived_boxes"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.diropen_box"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.egstore"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.fileboxsetup"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.fileopen_box"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.filesave_box"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.fillable_box"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.global_state"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.multi_fillable_box"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.text_box"
+2018-04-19T16:03:00: Analyzing "easygui.boxes.utils"
+2018-04-19T16:03:00: Analyzing "easygui.boxes"
+2018-04-19T16:03:00: Starting analysis of 19 modules
+2018-04-19T16:03:01: Analysis complete
+2018-04-19T16:03:01: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui"
+2018-04-19T16:03:02: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\easygui"
+2018-04-19T16:03:02: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2" with 36 files
+2018-04-19T16:03:02: Parsing "ezodf2.base" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\base.py")
+2018-04-19T16:03:02: Parsing "ezodf2.body" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\body.py")
+2018-04-19T16:03:02: Parsing "ezodf2.bytestreammanager" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\bytestreammanager.py")
+2018-04-19T16:03:02: Parsing "ezodf2.cells" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\cells.py")
+2018-04-19T16:03:02: Parsing "ezodf2.cellspancontroller" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\cellspancontroller.py")
+2018-04-19T16:03:02: Parsing "ezodf2.compatibility" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\compatibility.py")
+2018-04-19T16:03:02: Parsing "ezodf2.conf" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\conf.py")
+2018-04-19T16:03:02: Parsing "ezodf2.const" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\const.py")
+2018-04-19T16:03:02: Parsing "ezodf2.content" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\content.py")
+2018-04-19T16:03:02: Parsing "ezodf2.document" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\document.py")
+2018-04-19T16:03:02: Parsing "ezodf2.drawingpage" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\drawingpage.py")
+2018-04-19T16:03:02: Parsing "ezodf2.filemanager" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\filemanager.py")
+2018-04-19T16:03:02: Parsing "ezodf2.manifest" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\manifest.py")
+2018-04-19T16:03:02: Parsing "ezodf2.meta" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\meta.py")
+2018-04-19T16:03:02: Parsing "ezodf2.nodeorganizer" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\nodeorganizer.py")
+2018-04-19T16:03:02: Parsing "ezodf2.nodestructurechecker" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\nodestructurechecker.py")
+2018-04-19T16:03:02: Parsing "ezodf2.nodestructuretags" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\nodestructuretags.py")
+2018-04-19T16:03:02: Parsing "ezodf2.observer" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\observer.py")
+2018-04-19T16:03:02: Parsing "ezodf2.pagecontainer" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\pagecontainer.py")
+2018-04-19T16:03:02: Parsing "ezodf2.pages" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\pages.py")
+2018-04-19T16:03:02: Parsing "ezodf2.presentationpage" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\presentationpage.py")
+2018-04-19T16:03:02: Parsing "ezodf2.propertymixins" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\propertymixins.py")
+2018-04-19T16:03:02: Parsing "ezodf2.protection" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\protection.py")
+2018-04-19T16:03:02: Parsing "ezodf2.sheets" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\sheets.py")
+2018-04-19T16:03:02: Parsing "ezodf2.styles" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\styles.py")
+2018-04-19T16:03:02: Parsing "ezodf2.table" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\table.py")
+2018-04-19T16:03:02: Parsing "ezodf2.tablecolumncontroller" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\tablecolumncontroller.py")
+2018-04-19T16:03:02: Parsing "ezodf2.tablenormalizer" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\tablenormalizer.py")
+2018-04-19T16:03:02: Parsing "ezodf2.tablerowcontroller" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\tablerowcontroller.py")
+2018-04-19T16:03:02: Parsing "ezodf2.tableutils" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\tableutils.py")
+2018-04-19T16:03:02: Parsing "ezodf2.text" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\text.py")
+2018-04-19T16:03:02: Parsing "ezodf2.timeparser" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\timeparser.py")
+2018-04-19T16:03:02: Parsing "ezodf2.whitespaces" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\whitespaces.py")
+2018-04-19T16:03:02: Parsing "ezodf2.wrapcache" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\wrapcache.py")
+2018-04-19T16:03:02: Parsing "ezodf2.xmlns" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\xmlns.py")
+2018-04-19T16:03:02: Parsing "ezodf2" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2\__init__.py")
+2018-04-19T16:03:02: Parsing complete
+2018-04-19T16:03:02: Analyzing "ezodf2.base"
+2018-04-19T16:03:02: Analyzing "ezodf2.body"
+2018-04-19T16:03:02: Analyzing "ezodf2.bytestreammanager"
+2018-04-19T16:03:02: Analyzing "ezodf2.cells"
+2018-04-19T16:03:02: Analyzing "ezodf2.cellspancontroller"
+2018-04-19T16:03:02: Analyzing "ezodf2.compatibility"
+2018-04-19T16:03:02: Analyzing "ezodf2.conf"
+2018-04-19T16:03:02: Analyzing "ezodf2.const"
+2018-04-19T16:03:02: Analyzing "ezodf2.content"
+2018-04-19T16:03:02: Analyzing "ezodf2.document"
+2018-04-19T16:03:02: Analyzing "ezodf2.drawingpage"
+2018-04-19T16:03:02: Analyzing "ezodf2.filemanager"
+2018-04-19T16:03:02: Analyzing "ezodf2.manifest"
+2018-04-19T16:03:02: Analyzing "ezodf2.meta"
+2018-04-19T16:03:02: Analyzing "ezodf2.nodeorganizer"
+2018-04-19T16:03:02: Analyzing "ezodf2.nodestructurechecker"
+2018-04-19T16:03:02: Analyzing "ezodf2.nodestructuretags"
+2018-04-19T16:03:02: Analyzing "ezodf2.observer"
+2018-04-19T16:03:02: Analyzing "ezodf2.pagecontainer"
+2018-04-19T16:03:02: Analyzing "ezodf2.pages"
+2018-04-19T16:03:02: Analyzing "ezodf2.presentationpage"
+2018-04-19T16:03:02: Analyzing "ezodf2.propertymixins"
+2018-04-19T16:03:02: Analyzing "ezodf2.protection"
+2018-04-19T16:03:02: Analyzing "ezodf2.sheets"
+2018-04-19T16:03:02: Analyzing "ezodf2.styles"
+2018-04-19T16:03:02: Analyzing "ezodf2.table"
+2018-04-19T16:03:02: Analyzing "ezodf2.tablecolumncontroller"
+2018-04-19T16:03:02: Analyzing "ezodf2.tablenormalizer"
+2018-04-19T16:03:02: Analyzing "ezodf2.tablerowcontroller"
+2018-04-19T16:03:02: Analyzing "ezodf2.tableutils"
+2018-04-19T16:03:02: Analyzing "ezodf2.text"
+2018-04-19T16:03:02: Analyzing "ezodf2.timeparser"
+2018-04-19T16:03:02: Analyzing "ezodf2.whitespaces"
+2018-04-19T16:03:02: Analyzing "ezodf2.wrapcache"
+2018-04-19T16:03:02: Analyzing "ezodf2.xmlns"
+2018-04-19T16:03:02: Analyzing "ezodf2"
+2018-04-19T16:03:02: Starting analysis of 36 modules
+2018-04-19T16:03:03: Analysis complete
+2018-04-19T16:03:03: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2"
+2018-04-19T16:03:04: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\ezodf2"
+2018-04-19T16:03:04: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml" with 20 files
+2018-04-19T16:03:04: Parsing "lxml.cssselect" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\cssselect.py")
+2018-04-19T16:03:04: Parsing "lxml.doctestcompare" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\doctestcompare.py")
+2018-04-19T16:03:04: Parsing "lxml.ElementInclude" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\ElementInclude.py")
+2018-04-19T16:03:04: Parsing "lxml.pyclasslookup" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\pyclasslookup.py")
+2018-04-19T16:03:04: Parsing "lxml.sax" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\sax.py")
+2018-04-19T16:03:04: Parsing "lxml.usedoctest" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\usedoctest.py")
+2018-04-19T16:03:04: Parsing "lxml" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\__init__.py")
+2018-04-19T16:03:04: Parsing "lxml.html.builder" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\builder.py")
+2018-04-19T16:03:04: Parsing "lxml.html.defs" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\defs.py")
+2018-04-19T16:03:04: Parsing "lxml.html.ElementSoup" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\ElementSoup.py")
+2018-04-19T16:03:04: Parsing "lxml.html.formfill" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\formfill.py")
+2018-04-19T16:03:04: Parsing "lxml.html.html5parser" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\html5parser.py")
+2018-04-19T16:03:04: Parsing "lxml.html.soupparser" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\soupparser.py")
+2018-04-19T16:03:04: Parsing "lxml.html.usedoctest" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\usedoctest.py")
+2018-04-19T16:03:04: Parsing "lxml.html._diffcommand" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\_diffcommand.py")
+2018-04-19T16:03:04: Parsing "lxml.html._html5builder" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\_html5builder.py")
+2018-04-19T16:03:04: Parsing "lxml.html._setmixin" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\_setmixin.py")
+2018-04-19T16:03:04: Parsing "lxml.html" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\html\__init__.py")
+2018-04-19T16:03:04: Parsing "lxml.includes" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\includes\__init__.py")
+2018-04-19T16:03:04: Parsing "lxml.isoschematron" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml\isoschematron\__init__.py")
+2018-04-19T16:03:04: Parsing complete
+2018-04-19T16:03:04: Analyzing "lxml.cssselect"
+2018-04-19T16:03:04: Analyzing "lxml.doctestcompare"
+2018-04-19T16:03:04: Analyzing "lxml.ElementInclude"
+2018-04-19T16:03:04: Analyzing "lxml.pyclasslookup"
+2018-04-19T16:03:04: Analyzing "lxml.sax"
+2018-04-19T16:03:04: Analyzing "lxml.usedoctest"
+2018-04-19T16:03:04: Analyzing "lxml"
+2018-04-19T16:03:04: Analyzing "lxml.html.builder"
+2018-04-19T16:03:04: Analyzing "lxml.html.defs"
+2018-04-19T16:03:04: Analyzing "lxml.html.ElementSoup"
+2018-04-19T16:03:04: Analyzing "lxml.html.formfill"
+2018-04-19T16:03:04: Analyzing "lxml.html.html5parser"
+2018-04-19T16:03:04: Analyzing "lxml.html.soupparser"
+2018-04-19T16:03:04: Analyzing "lxml.html.usedoctest"
+2018-04-19T16:03:04: Analyzing "lxml.html._diffcommand"
+2018-04-19T16:03:04: Analyzing "lxml.html._html5builder"
+2018-04-19T16:03:04: Analyzing "lxml.html._setmixin"
+2018-04-19T16:03:04: Analyzing "lxml.html"
+2018-04-19T16:03:04: Analyzing "lxml.includes"
+2018-04-19T16:03:04: Analyzing "lxml.isoschematron"
+2018-04-19T16:03:04: Starting analysis of 20 modules
+2018-04-19T16:03:06: Analysis complete
+2018-04-19T16:03:06: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml"
+2018-04-19T16:03:06: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\lxml"
+2018-04-19T16:03:06: Start group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd" with 12 files
+2018-04-19T16:03:06: Parsing "xlrd.biffh" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\biffh.py")
+2018-04-19T16:03:06: Parsing "xlrd.book" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\book.py")
+2018-04-19T16:03:06: Parsing "xlrd.compdoc" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\compdoc.py")
+2018-04-19T16:03:06: Parsing "xlrd.formatting" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\formatting.py")
+2018-04-19T16:03:06: Parsing "xlrd.formula" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\formula.py")
+2018-04-19T16:03:06: Parsing "xlrd.info" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\info.py")
+2018-04-19T16:03:06: Parsing "xlrd.sheet" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\sheet.py")
+2018-04-19T16:03:06: Parsing "xlrd.timemachine" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\timemachine.py")
+2018-04-19T16:03:06: Parsing "xlrd.xldate" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\xldate.py")
+2018-04-19T16:03:06: Parsing "xlrd.xlsx" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\xlsx.py")
+2018-04-19T16:03:06: Parsing "xlrd" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\__init__.py")
+2018-04-19T16:03:06: Parsing "xlrd.examples.xlrdnameAPIdemo" ("C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd\examples\xlrdnameAPIdemo.py")
+2018-04-19T16:03:06: Parsing complete
+2018-04-19T16:03:06: Analyzing "xlrd.biffh"
+2018-04-19T16:03:06: Analyzing "xlrd.book"
+2018-04-19T16:03:06: Analyzing "xlrd.compdoc"
+2018-04-19T16:03:06: Analyzing "xlrd.formatting"
+2018-04-19T16:03:06: Analyzing "xlrd.formula"
+2018-04-19T16:03:06: Analyzing "xlrd.info"
+2018-04-19T16:03:06: Analyzing "xlrd.sheet"
+2018-04-19T16:03:06: Analyzing "xlrd.timemachine"
+2018-04-19T16:03:06: Analyzing "xlrd.xldate"
+2018-04-19T16:03:06: Analyzing "xlrd.xlsx"
+2018-04-19T16:03:06: Analyzing "xlrd"
+2018-04-19T16:03:06: Analyzing "xlrd.examples.xlrdnameAPIdemo"
+2018-04-19T16:03:06: Starting analysis of 12 modules
+2018-04-19T16:03:09: Analysis complete
+2018-04-19T16:03:09: Saving group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd"
+2018-04-19T16:03:09: End of group "C:\Users\Chris\Documents\Visual Studio 2015\Projects\dataimport\dataimport\envspreadheet\Lib\site-packages\xlrd"
+2018-04-19T16:03:10: Deleting 0 files

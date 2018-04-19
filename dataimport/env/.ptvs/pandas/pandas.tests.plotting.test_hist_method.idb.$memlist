@@ -1,0 +1,13 @@
+TestDataFrameGroupByPlots
+Series
+DataFrame
+_check_plot_works
+tm
+slow
+np
+TestPlotBase
+TestDataFramePlots
+nose
+plotting
+TestSeriesPlots
+randn

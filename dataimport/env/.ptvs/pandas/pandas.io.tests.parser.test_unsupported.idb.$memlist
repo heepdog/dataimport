@@ -1,0 +1,9 @@
+nose
+tm
+parsers
+TestDeprecatedFeatures
+CParserError
+read_csv
+StringIO
+read_table
+TestUnsupportedFeatures
