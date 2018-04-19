@@ -7,6 +7,7 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dataimport", "dataimport\da
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{19C01F6A-28C9-45FC-AF77-1CF6EF377F4C}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		dataimport\test0.xml = dataimport\test0.xml
 		..\..\..\..\..\..\Python34\chris\test2.ods = ..\..\..\..\..\..\Python34\chris\test2.ods
 	EndProjectSection
