@@ -1,8 +1,0 @@
-key
-BytesIO
-parse_url
-BotoFileLikeReader
-compat
-os
-boto
-get_filepath_or_buffer

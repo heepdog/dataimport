@@ -1,9 +1,0 @@
-WebPublishItems
-Integer
-absolute_import
-Sequence
-Set
-WebPublishItem
-Bool
-Serialisable
-String

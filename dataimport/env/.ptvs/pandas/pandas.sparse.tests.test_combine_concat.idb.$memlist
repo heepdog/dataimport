@@ -1,6 +1,0 @@
-pd
-TestSparseSeriesConcat
-nose
-TestSparseDataFrameConcat
-np
-tm
