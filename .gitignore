@@ -5,7 +5,7 @@
 
 ## files to ignore for python
 /dataimport/env/
-/dataimport/envspreadsheet/
+/dataimport/envspreadheet/
 /dataimport/__pycache__
 /dataimport/data.csv
 
